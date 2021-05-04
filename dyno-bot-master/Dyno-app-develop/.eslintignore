@@ -1,9 +1,0 @@
-node_modules/*
-test/*
-build/*
-public/*
-private/*
-views/*
-*.md
-*.json
-commands/Admin/Eval.js
